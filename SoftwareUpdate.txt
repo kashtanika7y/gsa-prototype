@@ -1,1 +1,1 @@
-Link checks SSL insecure robustness (#7853)
+Optimize function calls to method calls (#8507)

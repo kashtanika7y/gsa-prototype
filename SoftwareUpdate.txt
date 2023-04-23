@@ -1,1 +1,1 @@
-Expand Model method type hinting (#8279)
+Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs

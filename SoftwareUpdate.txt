@@ -1,1 +1,1 @@
-Update OpenVINO INT8 export (#7515)
+Add visuals in guides/distance-calculation.md (#7876)

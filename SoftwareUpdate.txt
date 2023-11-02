@@ -1,1 +1,1 @@
-fix val each epoch
+Add C++ Classify inference example (#6868)

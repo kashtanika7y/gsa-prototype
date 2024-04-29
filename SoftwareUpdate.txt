@@ -1,1 +1,1 @@
-Add domain checks to CI docs page (#8714)
+Add speed_estimation and distance_calculation in ultralytics solutions (#7325)
